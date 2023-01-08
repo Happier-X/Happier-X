@@ -25,5 +25,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/zhf521/count.svg) 
 <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhf521&layout=compact&theme=tokyonight" />
 </div>
 
+![](https://raw.githubusercontent.com/zhf521/zhf521/main/assets/github-contribution-grid-snake.svg)
+
 <!-- profile-3d-contrib -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/zhf521/zhf521/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
