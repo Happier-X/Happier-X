@@ -5,4 +5,3 @@ Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/zhf521/co
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhf521&layout=compact&theme=tokyonight)
 
-![](https://activity-graph.herokuapp.com/graph?username=zhf521&theme=github)
