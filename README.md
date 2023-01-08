@@ -26,8 +26,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/zhf521/count.svg) 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=zhf521&show_icons=true&theme=tokyonight)](https://github.com/zhf521/github-readme-stats)-->
 
 <div align="left">
-<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqwlkj&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
-<img height='180' src="https://github-readme-stats.vercel.app/api?username=hqwlkj&show_icons=true&theme=cobalt" align="center" />
+<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhf521&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
+<img height='180' src="https://github-readme-stats.vercel.app/api?username=zhf521&show_icons=true&theme=cobalt" align="center" />
 </div>  
 
 <br/>  
@@ -117,13 +117,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/zhf521/count.svg) 
 
 ## Connect with me  
 <div align="left">
-<a href="https://twitter.com/hqwlkj" target="_blank">
+<a href="https://twitter.com/zhf521" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/hqwlkj" target="_blank">
+<a href="https://github.com/zhf521" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/hqwlkj" target="_blank">
+<a href="https://gitlab.com/zhf521" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
 </div>  
