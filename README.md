@@ -3,21 +3,18 @@
 <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
 
-### I'm Yang hc （Bill） .
+### I'm Zhao hf.
 
 <br/>
 
-- 🍒  A post-90s person who loves software development.
-- 📍  重庆(CQ).
-- 👨‍🎓  CQU.
+- 📍  济南(JN).
+- 👨‍🎓  QFNU.
 - 👩‍💻  9 years of work.
-- 🎖️  5 years in the army.
-- 👨‍🦳  Father of two girls.
-- 📧  [hqwlkj@sina.com](mailto:hqwlkj@sina.com).
+- 📧  [3407085928@qq.com](mailto:3407085928@qq.com).
 <br/>
 <br/>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/hqwlkj/count.svg)th visitor
+You are my ![Visitor Count](https://profile-counter.glitch.me/zhf521/count.svg) visitor
 
 <br/>
 <br/>
