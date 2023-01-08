@@ -21,9 +21,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/zhf521/count.svg) 
 
 # About My Github
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhf521&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/zhf521/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhf521&layout=compact&langs_count=8&theme=tokyonight)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=zhf521&show_icons=true&theme=tokyonight)](https://github.com/zhf521/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=zhf521&show_icons=true&theme=tokyonight)]-->
 
 <div align="left">
 <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhf521&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
@@ -127,16 +127,3 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/zhf521/count.svg) 
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-<br/>  
-<br/>  
-
-
-#
-
-© 2022 Made with ❤ by [profilinator](https://profilinator.rishav.dev/)
-
-<br/>  <br/>
-
