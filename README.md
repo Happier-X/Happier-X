@@ -21,8 +21,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/zhf521/count.svg) 
 
 # 🚀About My Github
 <div align="center">
-<img height="175px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zhf521&show_icons=true&theme=tokyonight" />
-<img height="175px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zhf521&layout=compact&theme=tokyonight" />
+<img height="175px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zhf521&show_icons=true&theme=tokyonight"(https://github.com/anuraghazra/github-readme-stats) />
+<img height="175px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zhf521&layout=compact&theme=tokyonight"(https://github.com/anuraghazra/github-readme-stats) />
 </div>
 
 ![](https://raw.githubusercontent.com/zhf521/zhf521/main/dist/github-contribution-grid-snake.svg)
