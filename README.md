@@ -25,4 +25,4 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/zhf521/count.svg) 
 <img height="175px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zhf521&layout=compact&theme=tokyonight"/>
 </div>
 
-![](https://raw.githubusercontent.com/zhf521/zhf521/main/dist/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/zhf521/zhf521/main/dist/github-snake.svg)
