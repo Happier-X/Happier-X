@@ -1,6 +1,6 @@
 
 # Hi there 👋
-<img align="right" top='60' alt="GIF" src="https://obsidian-picture.oss-cn-qingdao.aliyuncs.com/my-img/GitHubgif.gif" width="480"/>
+<img align="right" top='60' alt="GIF" src="https://zhf-picture.oss-cn-qingdao.aliyuncs.com/my-img/GitHubgif.gif" width="480"/>
 
 
 ### 🙋I'm Mr.Zhao.
