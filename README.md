@@ -23,5 +23,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/zhf521/count.svg) 
 <div align="center">
     <img align="center" width="425" src="https://github-readme-stats.vercel.app/api?username=zhf521&show_icons=true&theme=tokyonight&line_height=20" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhf521&&layout=compact&theme=tokyonight&card_width=425" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhf521&repo=zhf521" />
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhf521&repo=zhf521" /> -->
 </div>
