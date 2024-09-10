@@ -25,6 +25,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/zhf521/count.svg) 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhf521&show_icons=true&theme=tokyonight&line_height=20" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhf521&&layout=compact&theme=tokyonight&card_width=467" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhf521&&layout=compact&theme=tokyonight&card_width=400" />
   </a>
 </div>
