@@ -20,4 +20,4 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/zhf521/count.svg) 
 
 
 # 🚀About My Github
-[![茕茕's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhf521)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=zhf521)](https://github.com/anuraghazra/github-readme-stats)
