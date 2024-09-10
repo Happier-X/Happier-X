@@ -21,4 +21,4 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/zhf521/count.svg) 
 
 # 🚀About My Github
 [![](https://github-readme-stats.vercel.app/api?username=zhf521&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhf521&&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhf521&&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
