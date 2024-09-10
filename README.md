@@ -21,6 +21,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/zhf521/count.svg) 
 
 # 🚀About My Github
 <div align="center">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=zhf521&show_icons=true&theme=tokyonight&line_height=25" />
+    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=zhf521&show_icons=true&theme=tokyonight&line_height=24" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhf521&&layout=compact&theme=tokyonight&card_width=420" />
 </div>
