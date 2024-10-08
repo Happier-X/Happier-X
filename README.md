@@ -10,6 +10,7 @@
 - 📍  济南(JN).
 - 👨‍🎓  QFNU.
 - 📧  [zhf5256@qq.com](mailto:zhf5256@qq.com).
+- 📖  [Happier's blog](https://blog.azhf8.top/).
 <br/>
 <br/>
 
